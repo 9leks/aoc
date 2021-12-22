@@ -1,7 +1,6 @@
 (ns aoc2021.day1
   (:require [clojure.java.io :as io]))
 
-
 ;; day1-1
 (with-open [rdr (io/reader "./day1/input.txt")]
   (let [lines (line-seq rdr)]

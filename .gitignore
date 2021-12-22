@@ -2,3 +2,4 @@
 **/.lsp
 **/.calva
 .vscode
+*.py
